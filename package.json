@@ -11,10 +11,6 @@
     "type": "tableview",
     "scope": "app",
     "atelyxVersionMin": "0.5.0",
-    "tagline": "表格时间线视图：按时长排布卡片并预演",
-    "declares": ["table"],
-    "permissions": {
-      "table": "读取当前打开的表格行/字段/图片与选中行，提供时间线预演视图"
-    }
+    "tagline": "表格时间线视图：按时长排布卡片并预演"
   }
 }
